@@ -1,0 +1,13 @@
+#pricing h4{
+	font-size: 36px;
+    color: #1dc8cd;
+    font-weight: 300;
+}
+#pricing h4 sup{
+	    font-size: 20px;
+    top: -20px;
+}
+#pricing h4 span{
+	color: #bababa;
+    font-size: 20px;
+}
